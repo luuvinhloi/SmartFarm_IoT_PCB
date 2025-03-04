@@ -1,0 +1,9 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "Smart_Farm")(type "KiCad")(uri "C:/LVL/Smart_Farm/lib/footprint/Smart_Farm.pretty")(options "")(descr ""))
+  (lib (name "Diode")(type "KiCad")(uri "C:/LVL/Smart_Farm/lib/footprint/Diode.pretty")(options "")(descr ""))
+  (lib (name "DHT11")(type "KiCad")(uri "C:/LVL/Smart_Farm/lib/footprint/DHT11.pretty")(options "")(descr ""))
+  (lib (name "DC_Jack")(type "KiCad")(uri "C:/LVL/Smart_Farm/lib/footprint/DC_Jack.pretty")(options "")(descr ""))
+  (lib (name "Library")(type "KiCad")(uri "${KIPRJMOD}/Library.pretty")(options "")(descr ""))
+  (lib (name "Button")(type "KiCad")(uri "C:/LVL/Smart_Farm/lib/footprint/Button.pretty")(options "")(descr ""))
+)

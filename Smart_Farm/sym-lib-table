@@ -1,0 +1,10 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "Smart_Farm")(type "KiCad")(uri "C:/LVL/Smart_Farm/lib/symbol/Smart_Farm.kicad_sym")(options "")(descr ""))
+  (lib (name "ESP32-DEVKITC-32D")(type "KiCad")(uri "C:/LVL/Smart_Farm/lib_pool/ESP32-DEVKITC-32D/ESP32-DEVKITC-32D.kicad_sym")(options "")(descr ""))
+  (lib (name "DHT11_pool")(type "KiCad")(uri "C:/LVL/Smart_Farm/lib_pool/DHT11/DHT11.kicad_sym")(options "")(descr ""))
+  (lib (name "Button_pool")(type "KiCad")(uri "C:/LVL/Smart_Farm/lib_pool/FSM8JH/FSM8JH.kicad_sym")(options "")(descr ""))
+  (lib (name "Diode_pool")(type "KiCad")(uri "C:/LVL/Smart_Farm/lib_pool/1SMB5929/1SMB5929.kicad_sym")(options "")(descr ""))
+  (lib (name "DC_Jack")(type "KiCad")(uri "C:/LVL/Smart_Farm/lib_pool/EJ508A/EJ508A.kicad_sym")(options "")(descr ""))
+  (lib (name "Relay")(type "KiCad")(uri "C:/LVL/Smart_Farm/lib_pool/SRD-05VDC-SL-C/SRD-05VDC-SL-C.kicad_sym")(options "")(descr ""))
+)

@@ -7,4 +7,5 @@
   (lib (name "Diode_pool")(type "KiCad")(uri "C:/LVL/Smart_Farm/lib_pool/1SMB5929/1SMB5929.kicad_sym")(options "")(descr ""))
   (lib (name "DC_Jack")(type "KiCad")(uri "C:/LVL/Smart_Farm/lib_pool/EJ508A/EJ508A.kicad_sym")(options "")(descr ""))
   (lib (name "Relay")(type "KiCad")(uri "C:/LVL/Smart_Farm/lib_pool/SRD-05VDC-SL-C/SRD-05VDC-SL-C.kicad_sym")(options "")(descr ""))
+  (lib (name "Switch")(type "KiCad")(uri "C:/LVL/Smart_Farm/lib_pool/Switch/100SP1T1B4M2QE.kicad_sym")(options "")(descr ""))
 )

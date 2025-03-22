@@ -6729,19 +6729,19 @@
 		(effects
 			(font
 				(size 3.81 3.81)
-				(thickness 0.508)
+				(thickness 0.762)
 				(bold yes)
 			)
 		)
 		(uuid "b1e8ac97-3c22-4dd0-a106-47c24cb18b5c")
 	)
-	(text "VOLTAGE REDUCTION"
+	(text "POWER IC"
 		(exclude_from_sim no)
 		(at 146.812 20.32 0)
 		(effects
 			(font
 				(size 3.81 3.81)
-				(thickness 0.254)
+				(thickness 0.762)
 				(bold yes)
 			)
 		)
@@ -9195,10 +9195,9 @@
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
-		(fields_autoplaced yes)
 		(uuid "6fd49e81-4c27-4d87-83a1-1306e205bbf9")
 		(property "Reference" "LCD16x2I2C2"
-			(at 162.56 81.2799 0)
+			(at 145.034 75.184 0)
 			(effects
 				(font
 					(size 1.27 1.27)

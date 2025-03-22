@@ -1,4 +1,4 @@
-23853574592719997
+23855316711529678
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -89557,6 +89557,13 @@ LM7805CT
 0
 3
 3
+Smart_Farm
+MK-12C02-G020_GSW
+
+MK-12C02-G020 
+0
+7
+7
 Smart_Farm
 MODULE_ESP32-DEVKITC-32D
 

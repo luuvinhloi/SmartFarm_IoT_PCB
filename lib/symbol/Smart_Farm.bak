@@ -1658,6 +1658,419 @@
 			)
 		)
 	)
+	(symbol "MK-12C02-G020"
+		(pin_names
+			(offset 0.254) hide)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(property "Reference" "SW"
+			(at 12.7 7.62 0)
+			(effects
+				(font
+					(size 1.524 1.524)
+				)
+			)
+		)
+		(property "Value" "MK-12C02-G020"
+			(at 12.7 5.08 0)
+			(effects
+				(font
+					(size 1.524 1.524)
+				)
+			)
+		)
+		(property "Footprint" "MK-12C02-G020_GSW"
+			(at 7.874 -14.986 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+					(italic yes)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "MK-12C02-G020"
+			(at 8.382 -17.526 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+					(italic yes)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "ki_keywords" "MK-12C02-G020"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "ki_fp_filters" "MK-12C02-G020_GSW"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(symbol "MK-12C02-G020_0_1"
+			(polyline
+				(pts
+					(xy 7.62 -5.08) (xy 17.78 -5.08)
+				)
+				(stroke
+					(width 0.127)
+					(type default)
+				)
+				(fill
+					(type none)
+				)
+			)
+			(polyline
+				(pts
+					(xy 7.62 0) (xy 8.89 0)
+				)
+				(stroke
+					(width 0.127)
+					(type default)
+				)
+				(fill
+					(type none)
+				)
+			)
+			(polyline
+				(pts
+					(xy 7.62 2.54) (xy 7.62 -5.08)
+				)
+				(stroke
+					(width 0.127)
+					(type default)
+				)
+				(fill
+					(type none)
+				)
+			)
+			(polyline
+				(pts
+					(xy 8.89 0) (xy 8.89 1.27)
+				)
+				(stroke
+					(width 0.127)
+					(type default)
+				)
+				(fill
+					(type none)
+				)
+			)
+			(polyline
+				(pts
+					(xy 8.89 1.27) (xy 10.16 1.27)
+				)
+				(stroke
+					(width 0.127)
+					(type default)
+				)
+				(fill
+					(type none)
+				)
+			)
+			(polyline
+				(pts
+					(xy 12.7 -3.81) (xy 12.7 -2.54)
+				)
+				(stroke
+					(width 0.127)
+					(type default)
+				)
+				(fill
+					(type none)
+				)
+			)
+			(polyline
+				(pts
+					(xy 12.7 -2.032) (xy 10.414 2.032)
+				)
+				(stroke
+					(width 0.127)
+					(type default)
+				)
+				(fill
+					(type none)
+				)
+			)
+			(polyline
+				(pts
+					(xy 15.24 -3.81) (xy 12.7 -3.81)
+				)
+				(stroke
+					(width 0.127)
+					(type default)
+				)
+				(fill
+					(type none)
+				)
+			)
+			(polyline
+				(pts
+					(xy 15.24 -2.54) (xy 15.24 -3.81)
+				)
+				(stroke
+					(width 0.127)
+					(type default)
+				)
+				(fill
+					(type none)
+				)
+			)
+			(polyline
+				(pts
+					(xy 15.24 1.27) (xy 16.51 1.27)
+				)
+				(stroke
+					(width 0.127)
+					(type default)
+				)
+				(fill
+					(type none)
+				)
+			)
+			(polyline
+				(pts
+					(xy 16.51 0) (xy 17.78 0)
+				)
+				(stroke
+					(width 0.127)
+					(type default)
+				)
+				(fill
+					(type none)
+				)
+			)
+			(polyline
+				(pts
+					(xy 16.51 1.27) (xy 16.51 0)
+				)
+				(stroke
+					(width 0.127)
+					(type default)
+				)
+				(fill
+					(type none)
+				)
+			)
+			(polyline
+				(pts
+					(xy 17.78 -5.08) (xy 17.78 2.54)
+				)
+				(stroke
+					(width 0.127)
+					(type default)
+				)
+				(fill
+					(type none)
+				)
+			)
+			(polyline
+				(pts
+					(xy 17.78 -2.54) (xy 15.24 -2.54)
+				)
+				(stroke
+					(width 0.127)
+					(type default)
+				)
+				(fill
+					(type none)
+				)
+			)
+			(polyline
+				(pts
+					(xy 17.78 2.54) (xy 7.62 2.54)
+				)
+				(stroke
+					(width 0.127)
+					(type default)
+				)
+				(fill
+					(type none)
+				)
+			)
+			(circle
+				(center 10.414 1.27)
+				(radius 0.254)
+				(stroke
+					(width 0.127)
+					(type default)
+				)
+				(fill
+					(type none)
+				)
+			)
+			(circle
+				(center 12.7 -2.286)
+				(radius 0.254)
+				(stroke
+					(width 0.127)
+					(type default)
+				)
+				(fill
+					(type none)
+				)
+			)
+			(circle
+				(center 14.986 1.27)
+				(radius 0.254)
+				(stroke
+					(width 0.127)
+					(type default)
+				)
+				(fill
+					(type none)
+				)
+			)
+			(pin unspecified line
+				(at 0 0 0)
+				(length 7.62)
+				(name "1"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "1"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+			(pin unspecified line
+				(at 25.4 -2.54 180)
+				(length 7.62)
+				(name "2"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "2"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+			(pin unspecified line
+				(at 25.4 0 180)
+				(length 7.62)
+				(name "3"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "3"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+		)
+		(symbol "MK-12C02-G020_1_0"
+			(pin passive line
+				(at 8.89 -10.16 90)
+				(length 5.08)
+				(name ""
+					(effects
+						(font
+							(size 1.016 1.016)
+						)
+					)
+				)
+				(number "4"
+					(effects
+						(font
+							(size 1.016 1.016)
+						)
+					)
+				)
+			)
+			(pin passive line
+				(at 11.43 -10.16 90)
+				(length 5.08)
+				(name ""
+					(effects
+						(font
+							(size 1.016 1.016)
+						)
+					)
+				)
+				(number "5"
+					(effects
+						(font
+							(size 1.016 1.016)
+						)
+					)
+				)
+			)
+			(pin passive line
+				(at 13.97 -10.16 90)
+				(length 5.08)
+				(name ""
+					(effects
+						(font
+							(size 1.016 1.016)
+						)
+					)
+				)
+				(number "6"
+					(effects
+						(font
+							(size 1.016 1.016)
+						)
+					)
+				)
+			)
+			(pin passive line
+				(at 16.51 -10.16 90)
+				(length 5.08)
+				(name ""
+					(effects
+						(font
+							(size 1.016 1.016)
+						)
+					)
+				)
+				(number "7"
+					(effects
+						(font
+							(size 1.016 1.016)
+						)
+					)
+				)
+			)
+		)
+	)
 	(symbol "RAIN_SENSOR"
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -2451,25 +2864,12 @@
 				)
 			)
 		)
-		(symbol "Relay Module_0_1"
-			(rectangle
-				(start -50.8 20.32)
-				(end 24.13 -20.32)
-				(stroke
-					(width 0.254)
-					(type default)
-				)
-				(fill
-					(type none)
-				)
-			)
-		)
 	)
 	(symbol "SOIL_SENSOR"
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(property "Reference" "U"
+		(property "Reference" "SOIL_SENSOR"
 			(at 3.556 8.89 0)
 			(effects
 				(font
@@ -2486,7 +2886,7 @@
 			)
 		)
 		(property "Footprint" "Connector_PinSocket_2.54mm:PinSocket_1x04_P2.54mm_Horizontal"
-			(at -4.572 -8.128 0)
+			(at 0.762 -17.78 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2495,7 +2895,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at -5.08 2.54 0)
+			(at -5.08 -2.54 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2504,7 +2904,7 @@
 			)
 		)
 		(property "Description" ""
-			(at -5.08 2.54 0)
+			(at -5.08 -2.54 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2514,8 +2914,8 @@
 		)
 		(symbol "SOIL_SENSOR_0_1"
 			(rectangle
-				(start 6.35 3.81)
-				(end 8.89 -3.81)
+				(start -17.78 -2.54)
+				(end -19.05 -1.27)
 				(stroke
 					(width 0)
 					(type default)
@@ -2525,8 +2925,8 @@
 				)
 			)
 			(rectangle
-				(start 7.62 -1.27)
-				(end 8.89 -2.54)
+				(start -17.78 1.27)
+				(end -19.05 2.54)
 				(stroke
 					(width 0)
 					(type default)
@@ -2536,8 +2936,8 @@
 				)
 			)
 			(rectangle
-				(start 7.62 2.54)
-				(end 8.89 1.27)
+				(start -16.51 -3.81)
+				(end -19.05 3.81)
 				(stroke
 					(width 0)
 					(type default)
@@ -2549,9 +2949,9 @@
 		)
 		(symbol "SOIL_SENSOR_1_0"
 			(pin passive line
-				(at -13.97 3.81 0)
+				(at 3.81 -3.81 180)
 				(length 5.08)
-				(name "AO"
+				(name "VCC"
 					(effects
 						(font
 							(size 1.016 1.016)
@@ -2567,9 +2967,9 @@
 				)
 			)
 			(pin passive line
-				(at -13.97 1.27 0)
+				(at 3.81 -1.27 180)
 				(length 5.08)
-				(name "DO"
+				(name "GND"
 					(effects
 						(font
 							(size 1.016 1.016)
@@ -2584,10 +2984,10 @@
 					)
 				)
 			)
-			(pin passive line
-				(at -13.97 -1.27 0)
+			(pin no_connect line
+				(at 3.81 1.27 180)
 				(length 5.08)
-				(name "GND"
+				(name "DO"
 					(effects
 						(font
 							(size 1.016 1.016)
@@ -2603,9 +3003,9 @@
 				)
 			)
 			(pin passive line
-				(at -13.97 -3.81 0)
+				(at 3.81 3.81 180)
 				(length 5.08)
-				(name "VCC"
+				(name "AO"
 					(effects
 						(font
 							(size 1.016 1.016)
@@ -2623,8 +3023,8 @@
 		)
 		(symbol "SOIL_SENSOR_1_1"
 			(rectangle
-				(start -8.89 6.35)
-				(end 8.89 -6.35)
+				(start -1.27 -6.35)
+				(end -19.05 6.35)
 				(stroke
 					(width 0)
 					(type default)
